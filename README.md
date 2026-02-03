@@ -1,15 +1,15 @@
 <html>
- <head>
+	<head>
   
   </head>
    <body>
-   <table>
-   <tr>
-	   <th></th>
-		 <th></th>
-		 <th></th>
-		 <th></th>
+   <table border="3">
+     <tr>
+	     <th> Sr.No </th>
+		 <th> Name </th>
+		 <th> Subject </th>
+		 <th> Mark </th>
 	 </tr>
-
-  </body>
+  </table  border="3">
+   </body>
 </html>
